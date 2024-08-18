@@ -20,14 +20,6 @@ I am Karan Mishra, the founder and CEO of i AIM LABS, an IT services and consult
 
 As the founder of i AIM LABS, I am passionate about leveraging the latest technology to drive business growth and efficiency. Our mission is to empower businesses through innovative solutions and our vision is to be a global leader in technology innovation.
 
-## Projects
-
-### [Project 1: Example Project](https://github.com/yourusername/project1)
-Description of your project with relevant details and technology used.
-
-### [Project 2: Example Project](https://github.com/yourusername/project2)
-Description of another project with relevant details and technology used.
-
 ## Services
 
 At i AIM LABS, we offer a range of services including:
